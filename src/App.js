@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useState } from 'react';
 import Block from './components/Block';
 import './App.css';
